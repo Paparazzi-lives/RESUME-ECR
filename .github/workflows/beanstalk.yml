@@ -12,7 +12,7 @@ env:
 
 jobs:
   deploy:
-    name: Deploy to Elastic Beanstalk
+    name: Deploy to Elastic-Beanstalk
     runs-on: ubuntu-latest
 
 
