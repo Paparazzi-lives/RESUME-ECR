@@ -6,8 +6,8 @@ on:
 
 
 env:
-  AWS_APP_NAME: bis-prod
-  AWS_ENV_NAME: Bis-prod-env
+  AWS_APP_NAME: bismark
+  AWS_ENV_NAME: Bismark-env
 
 
 jobs:
